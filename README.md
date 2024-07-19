@@ -18,8 +18,11 @@ I am a second-year software major, and I am interested in AI technology.
   * JAVA Programming Lab (SWE2023_45)
   * Database Introduction (SWE3003_43)
 
+## Internship
+* HDMEDI
+
 ## Achievement
-* TOEIC 960
+* TOEIC
 
 ## Contact
   [![Gmail Badge](https://img.shields.io/badge/-kihyeon731@g.skku.edu-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kihyeon731@g.skku.edu)](mailto:kihyeon731@g.skku.edu) [![Github Badge](https://img.shields.io/badge/-kkh731-grey?style=flat&logo=github&logoColor=white&link=https://github.com/kkh731/)](https://www.github.com/kkh731/)
